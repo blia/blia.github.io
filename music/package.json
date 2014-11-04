@@ -1,0 +1,13 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "music player",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-bower-files": "^0.2.7",
+    "gulp-concat": "^2.4.1",
+    "gulp-emblem": "0.0.0",
+    "gulp-es6-transpiler": "^1.0.0",
+    "main-bower-files": "^2.1.0"
+  }
+}
